@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Aditya Raj 👋
 
-<!--
-**rajaditya-hub/rajaditya-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+* Aspiring Project / Product Manager
+* Strong foundation in SQL and data analysis
+* Interested in solving real-world business problems using data
+* Passionate about building structured solutions and improving processes
 
-Here are some ideas to get you started:
+🛠️ Skills
+* SQL (MySQL)
+* Data Analysis
+* Excel & Data Visualization
+* Problem Solving
+* Basic Product Thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects
+🔹 SQL Data Analysis Project
+
+Analyzed an e-commerce dataset to extract business insights on sales trends, customer behavior, and operational efficiency.
+🔗 https://github.com/rajaditya-hub/sql-data-analysis-project
+
+📈 What I'm Currently Learning
+
+- Product Management fundamentals
+- Business analysis & decision making
+- Excel dashboards / Power BI
+
+📫 Connect with Me
+* LinkedIn: https://www.linkedin.com/in/aditya-raj-203371306/
