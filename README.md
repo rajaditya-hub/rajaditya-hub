@@ -9,11 +9,12 @@ Aspiring Project / Product Manager | Data-Driven Problem Solver
 - Currently building projects focused on business insights and product thinking
 
 🛠️ Skills
-SQL (MySQL)
-Data Analysis
-Excel & Data Visualization
-Problem Solving
-Basic Product Thinking
+
+SQL (MySQL) | 
+Data Analysis | 
+Excel & Data Visualization | 
+Problem Solving | 
+Basic Product Thinking 
 
 📊 Projects
 🔹 SQL Data Analysis Project  
