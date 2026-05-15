@@ -1,5 +1,5 @@
 Hi, I'm Aditya Raj 👋  
-Aspiring Project / Product Manager | Data-Driven Problem Solver
+Aspiring Project / Product Manager | Data-Driven Problem Solver | Business-Focused Analyst
 
 🚀 About Me
 - Aspiring Project / Product Manager
