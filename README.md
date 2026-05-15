@@ -12,14 +12,14 @@ Aspiring Project / Product Manager | Data-Driven Problem Solver | Business-Focus
 
 SQL (MySQL) | 
 Data Analysis | 
-Excel & Data Visualization | 
+Excel & Visualization | 
 Problem Solving | 
-Basic Product Thinking 
+Product Thinking 
 
 📊 Projects
 🔹 SQL Data Analysis Project  
 Analyzed an e-commerce dataset to identify sales trends, top customers, and regional performance.  
-Derived insights to support business decision-making and operational improvements.  
+Derived insights to support business decision-making and operational improvements. Focused on translating data insights into actionable business decisions.
 
 🔗 https://github.com/rajaditya-hub/sql-data-analysis-project
 
