@@ -148,7 +148,7 @@ https://github.com/rajaditya-hub/sql-data-analysis-project
 
 -----
 
-# Contribution Streakes
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajaditya-hub&theme=github-dark&hide_border=true" />
