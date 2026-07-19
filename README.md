@@ -1,105 +1,199 @@
-# Hi, I'm Aditya Raj 👋
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
-### Aspiring Product / Project Manager | Business Analyst | Data-Driven Problem Solver
+<h3 align="center">
+Aspiring Product Manager • Project Manager • Business Analyst
+</h3>
 
-I am passionate about solving real-world business problems using data, analytics, and structured decision-making approaches.  
-My interests lie at the intersection of business analysis, operational optimization, product thinking, and data-driven strategy.
-
-Currently, I am building analytics and business intelligence projects focused on:
-- Operational efficiency
-- Business KPI analysis
-- Data-driven decision making
-- Process optimization
-- Product and business insights
+<p align="center">
+Turning ideas into structured solutions through technology, analytics, and product thinking.
+</p>
 
 ---
 
-# 🚀 Skills & Tools
+## 🚀 About Me
 
-### Programming & Analytics
-- SQL (MySQL)
+I'm a final-year Computer Science undergraduate at KIIT University with a strong interest in Product Management, Project Management, and Business Analysis.
+
+I enjoy understanding real-world problems, breaking them down into manageable components, and designing practical, data-driven solutions. My projects combine software development with documentation, analytics, and structured decision-making to solve operational and business challenges.
+
+Currently, I'm building projects that focus on:
+
+- 📊 Business Analytics
+- 📈 Product Thinking
+- 🏥 Healthcare Technology
+- 📦 Process Optimization
+- 🤖 AI-powered Applications
+- 📑 Software Engineering Documentation
+
+---
+
+# 💼 Technical Skills
+
+### Languages
+
 - Python
+- SQL (MySQL)
+- Java
+- C++
+
+### Data Analytics
+
 - Pandas
 - NumPy
-
-### Data Analysis & Visualization
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Business KPI Analysis
-- Matplotlib
 - Excel
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Analysis
 
-### Business & Product Skills
-- Problem Solving
+### Software Development
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- REST APIs
+
+### Project & Product
+
+- Agile
+- Scrum
 - Product Thinking
 - Business Analysis
+- Requirement Gathering
+- Software Requirements Specification (SRS)
 - Process Optimization
-- Analytical Decision Making
 
 ---
 
-# 📊 Featured Projects
+# ⭐ Featured Projects
 
-## 🔹 Food Delivery Process Optimization & Business Analytics
+## 🏥 MEDSUM — AI-Powered Hospital Management System
 
-Developed an end-to-end analytics project to analyze food delivery operations using Python, SQL, and MySQL.
+An AI-assisted hospital management platform developed as a collaborative college project.
 
-### Key Highlights
-- Performed data cleaning and preprocessing on operational delivery data
-- Built business KPI analysis using SQL queries
-- Analyzed traffic, weather, and vehicle impact on delivery efficiency
-- Created operational visualizations for business insights
-- Identified delivery bottlenecks and optimization opportunities
+### Highlights
 
-### Tools Used
+- Role-Based Authentication
+- AI Medical Report Summarization (Groq API)
+- Appointment Management
+- Patient & Doctor Dashboards
+- Admin Portal
+- Medical History Management
+- Software Requirements Specification (SRS)
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Node.js • Express • Groq API
+
+🔗 Repository:
+https://github.com/TEAM_REPOSITORY_LINK
+
+---
+
+## 🚚 Food Delivery Process Optimization
+
+A business analytics project focused on improving delivery operations through SQL and Python.
+
+### Highlights
+
+- Delivery KPI Analysis
+- Data Cleaning
+- Weather & Traffic Analysis
+- Operational Optimization
+- Business Insights Dashboard
+
+**Tech Stack**
+
 Python • Pandas • SQL • MySQL • Matplotlib
 
-🔗 Repository:  
+🔗 Repository
+
 https://github.com/rajaditya-hub/food-delivery-process-optimization
 
 ---
 
-## 🔹 SQL Data Analysis Project
+## 📊 SQL Data Analysis Project
 
-Analyzed business data using SQL to identify trends, customer behavior, and operational insights.
+Performed business analysis using SQL to identify trends and generate actionable insights.
 
-### Key Highlights
-- Performed SQL-based business analysis
-- Identified sales trends and top-performing regions
-- Derived actionable insights for business decision-making
-- Applied aggregation, filtering, grouping, and KPI analysis techniques
+### Highlights
 
-### Tools Used
+- Sales Analysis
+- Customer Segmentation
+- Regional Performance
+- KPI Reporting
+- Query Optimization
+
+**Tech Stack**
+
 SQL • MySQL
 
-🔗 Repository:  
+🔗 Repository
+
 https://github.com/rajaditya-hub/sql-data-analysis-project
 
 ---
 
-# 📈 Currently Learning
+# 📚 Currently Learning
 
-- Product Management Fundamentals
-- Business Intelligence & KPI Analytics
-- Power BI & Dashboard Development
-- Data-Driven Product Decision Making
-
----
-
-# 🧠 What I Bring
-
-- Strong analytical and problem-solving mindset
-- Ability to translate data into business insights
-- Interest in operational optimization and product improvement
-- Structured approach toward solving business challenges
-- Continuous learning mindset with practical project implementation
+- Product Management
+- Business Intelligence
+- Power BI
+- Dashboard Design
+- System Design
+- User Experience (UX)
+- Data-driven Decision Making
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Stats
 
-### LinkedIn
+<p align="center">
+
+(Add GitHub Stats Card)
+
+(Add Streak Card)
+
+(Add Top Languages Card)
+
+</p>
+
+---
+
+# 🎯 Career Interests
+
+I'm actively seeking opportunities in
+
+- Associate Product Management
+- Project Management
+- Business Analysis
+- Product Operations
+- Data Analytics
+
+where I can contribute to solving business problems using technology and structured thinking.
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn
+
 https://www.linkedin.com/in/aditya-raj-203371306/
 
-### GitHub
+💻 GitHub
+
 https://github.com/rajaditya-hub
+
+📧 Email
+
+(Your Email)
+
+---
+
+<p align="center">
+
+"Technology creates products. Understanding users creates successful products."
+
+</p>
