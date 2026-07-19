@@ -146,27 +146,12 @@ https://github.com/rajaditya-hub/sql-data-analysis-project
 - User Experience (UX)
 - Data-driven Decision Making
 
----
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaditya-hub&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
 -----
 
 # Contribution Streakes
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajaditya-hub&theme=github-dark&hide_border=true" />
-</p>
-
------
-
-# Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaditya-hub&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 -----
