@@ -96,7 +96,7 @@ MEDSUM is an AI-assisted hospital management platform developed as a collaborati
 
 HTML • CSS • JavaScript • Node.js • Express.js • Groq API
 
-🔗 **Repository:** 
+🔗 **Repository:**  
 https://github.com/Piyushj101/Medsum
 
 ---
@@ -154,6 +154,8 @@ SQL • MySQL
 
 🔗 **Repository:**  
 https://github.com/rajaditya-hub/sql-data-analysis-project
+
+
 ---
 
 # 📚 Currently Learning
