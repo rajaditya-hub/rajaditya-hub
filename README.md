@@ -96,52 +96,64 @@ MEDSUM is an AI-assisted hospital management platform developed as a collaborati
 
 HTML • CSS • JavaScript • Node.js • Express.js • Groq API
 
-🔗 **Repository:** https://github.com/Piyushj101/Medsum
+🔗 **Repository:** 
+https://github.com/Piyushj101/Medsum
 
 ---
 
 ## 🚚 Food Delivery Process Optimization
 
-A business analytics project focused on improving delivery operations through SQL and Python.
+An end-to-end data analytics project that explores factors affecting food delivery performance using Python and SQL. The project focuses on identifying operational challenges and deriving insights that can help improve delivery efficiency.
 
-### Highlights
+### My Contributions
+
+- Cleaned and prepared the dataset using Python and Pandas.
+- Performed exploratory data analysis to identify delivery patterns and operational trends.
+- Wrote SQL queries to analyze delivery performance across different cities, traffic conditions, weather, and vehicle types.
+- Created visualizations to present business insights and support data-driven decision-making.
+
+### Project Highlights
 
 - Delivery KPI Analysis
-- Data Cleaning
-- Weather & Traffic Analysis
-- Operational Optimization
-- Business Insights Dashboard
+- Data Cleaning & Preprocessing
+- Weather and Traffic Impact Analysis
+- Business Insight Visualizations
+- Process Optimization using Data
 
-**Tech Stack**
+### Tech Stack
 
 Python • Pandas • SQL • MySQL • Matplotlib
 
-🔗 Repository
-
+🔗 **Repository:**  
 https://github.com/rajaditya-hub/food-delivery-process-optimization
 
 ---
 
 ## 📊 SQL Data Analysis Project
 
-Performed business analysis using SQL to identify trends and generate actionable insights.
+A SQL-based analytics project developed to practice querying real-world business data and extracting meaningful insights that support business decision-making.
 
-### Highlights
+### My Contributions
 
-- Sales Analysis
+- Designed SQL queries to analyze business datasets.
+- Used joins, aggregate functions, filtering, grouping, and subqueries to answer business-related questions.
+- Identified sales trends, customer behavior, and regional performance using SQL.
+- Documented key findings and translated raw data into actionable insights.
+
+### Project Highlights
+
+- Sales Trend Analysis
 - Customer Segmentation
-- Regional Performance
+- Regional Performance Analysis
 - KPI Reporting
 - Query Optimization
 
-**Tech Stack**
+### Tech Stack
 
 SQL • MySQL
 
-🔗 Repository
-
+🔗 **Repository:**  
 https://github.com/rajaditya-hub/sql-data-analysis-project
-
 ---
 
 # 📚 Currently Learning
