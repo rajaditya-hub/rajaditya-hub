@@ -71,24 +71,32 @@ Currently, I'm building projects that focus on:
 
 ## 🏥 MEDSUM — AI-Powered Hospital Management System
 
-An AI-assisted hospital management platform developed as a collaborative college project.
+**Role:** Project Coordinator & Backend Developer *(Team Project)*
 
-### Highlights
+MEDSUM is an AI-assisted hospital management platform developed as a collaborative college project to simplify patient management, appointment scheduling, and medical report analysis using AI.
 
-- Role-Based Authentication
-- AI Medical Report Summarization (Groq API)
+### My Contributions
+
+- Coordinated project planning and feature implementation across the team.
+- Authored the Software Requirements Specification (SRS) and managed technical documentation.
+- Contributed to backend development using Node.js and Express.js.
+- Assisted in integrating the Groq AI API for medical report summarization.
+- Collaborated with frontend development and API integration to ensure smooth system functionality.
+
+### Project Highlights
+
+- Secure Role-Based Authentication
+- AI Medical Report Summarization
 - Appointment Management
 - Patient & Doctor Dashboards
-- Admin Portal
+- Admin Dashboard
 - Medical History Management
-- Software Requirements Specification (SRS)
 
-**Tech Stack**
+### Tech Stack
 
-HTML • CSS • JavaScript • Node.js • Express • Groq API
+HTML • CSS • JavaScript • Node.js • Express.js • Groq API
 
-🔗 Repository:
-https://github.com/TEAM_REPOSITORY_LINK
+🔗 **Repository:** https://github.com/Piyushj101/Medsum
 
 ---
 
